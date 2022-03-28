@@ -1,3 +1,5 @@
+package Lesson1;
+
 import org.w3c.dom.ls.LSOutput;
 
 public class Main {
